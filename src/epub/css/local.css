@@ -11,8 +11,7 @@
 }
 
 /* Dialogue table */
-[epub|type~="z3998:drama"] table,
-table[epub|type~="z3998:drama"]{
+[epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
 	margin: 1em auto;
 	width: 100%;
@@ -46,11 +45,6 @@ table[epub|type~="z3998:drama"]{
 	width: 20%;
 }
 
-section[epub|type~="z3998:scene"] > p{
-	margin: 1em auto;
-	width: 75%;
-}
-
 /* Dramatis Personae */
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
@@ -81,7 +75,6 @@ section[epub|type~="z3998:scene"] > p{
 }
 
 [epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
-em [epub|type~="z3998:persona"],
 i [epub|type~="z3998:persona"]{
 	font-style: normal;
 }
@@ -100,26 +93,6 @@ i [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
 
-/* Editorial stage directions */
-[epub|type~="z3998:stage-direction"].editorial::before{
-	content: "[";
-}
-
-[epub|type~="z3998:stage-direction"].editorial::after{
-	content: "]";
-}
-
-/* Abbreviated stage directions */
-abbr[epub|type~="z3998:stage-direction"]{
-	font-style: normal;
-	font-variant: all-small-caps;
-}
-
-abbr[epub|type~="z3998:stage-direction"]::before,
-abbr[epub|type~="z3998:stage-direction"]::after{
-	content: "";
-}
-
 /* Together CSS (for multiple speakers speaking together) */
 tr.together{
 	break-inside: avoid;
@@ -130,14 +103,8 @@ tr.together td{
 	vertical-align: middle;
 }
 
-tr.together td:only-child,
 tr.together td + td{
 	border-left: 1px solid;
-}
-
-.together + .together td[rowspan],
-.together + .together td[rowspan] + td{
-	padding-top: .5em;
 }
 
 [epub|type~="z3998:drama"] .together td:last-child{
