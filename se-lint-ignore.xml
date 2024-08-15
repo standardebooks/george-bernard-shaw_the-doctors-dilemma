@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="act-1.xhtml">
+		<ignore>
+			<code>t-041</code>
+			<reason>Line consists entirely of punctuation.</reason>
+		</ignore>
+	</file>
+	<file path="act-2.xhtml">
+		<ignore>
+			<code>t-041</code>
+			<reason>Line consists entirely of punctuation.</reason>
+		</ignore>
+		<ignore>
+			<code>t-053</code>
+			<reason>Stage direction is an interjection.</reason>
+		</ignore>
+	</file>
+	<file path="act-3.xhtml">
+		<ignore>
+			<code>t-053</code>
+			<reason>Stage direction is an interjection.</reason>
+		</ignore>
+	</file>
+	<file path="act-4.xhtml">
+		<ignore>
+			<code>t-053</code>
+			<reason>Stage direction is an interjection.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
