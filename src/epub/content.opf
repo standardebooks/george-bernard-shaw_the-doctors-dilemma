@@ -59,9 +59,9 @@
 		<dc:contributor id="transcriber-1">Eve Sobol</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sobol, Eve</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Widger, David</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Christopher Hapka</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Hapka, Christopher</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
