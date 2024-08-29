@@ -22,10 +22,4 @@
 			<reason>Stage direction is an interjection.</reason>
 		</ignore>
 	</file>
-	<file path="act-4.xhtml">
-		<ignore>
-			<code>t-053</code>
-			<reason>Stage direction is an interjection.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
