@@ -65,10 +65,6 @@
 	margin: 1em;
 }
 
-[epub|type~="z3998:dramatis-personae"] ul + p{
-	margin-top: 2em;
-}
-
 /* Stage directions and personas */
 [epub|type~="z3998:stage-direction"]{
 	font-style: italic;
