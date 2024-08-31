@@ -32,15 +32,17 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A doctor must decide which patient is worthy of his newly discovered cure: a talented but amoral artist, or a good-hearted but undistinguished public servant.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Sir Colenso Ridgeon is a respected medical man who has developed a new cure for tuberculosis. His limited resources means he can cure only a few people at a time, leaving him to decide who lives and who dies. The dilemma he faces is whose life is worth saving: a talented but amoral young artist, or a goodhearted public servant?&lt;/p&gt;
+			&lt;p&gt;Ridgeon is helped in his decision by his friends, doctors all, who represent author &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw’s&lt;/a&gt; opinion of the medical men of his day: a surgeon who prescribes an operation for every ailment; a general practitioner who sells cheap patent medicines to London’s poor; a wealthy and successful doctor to the rich and famous devoid of any medical talent but with a charming bedside manner; and a cynical retired doctor with no tolerance for modern medical science.&lt;/p&gt;
+			&lt;p&gt;Shaw uses this backdrop to draw out the two social problems at the heart of the play. First, what makes one man more worthy of society’s resources; personal virtue, artistic talent, or money? Second, and more important, the play highlights the danger of a medical system where every doctor has an incentive to treat their patients, but not to cure them.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5069</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/5070</dc:source>
 		<dc:source>https://archive.org/embed/doctorsdilemmage0000bern</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Shaw published many of his plays according to his own ideas of spelling reform, which have here been standardized for the modern reader. In particular, this edition replaces the apostrophes Shaw omitted from contractions such as “dont” and “theyre.”</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Doctor%27s_Dilemma</meta>
