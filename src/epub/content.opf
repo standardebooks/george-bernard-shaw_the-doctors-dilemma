@@ -41,7 +41,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5069</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/5070</dc:source>
-		<dc:source>https://archive.org/embed/doctorsdilemmage0000bern</dc:source>
+		<dc:source>https://archive.org/details/doctorsdilemmage0000bern</dc:source>
 		<meta property="se:production-notes">Shaw published many of his plays according to his own ideas of spelling reform, which have here been standardized for the modern reader. In particular, this edition replaces the apostrophes Shaw omitted from contractions such as “dont” and “theyre.”</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
