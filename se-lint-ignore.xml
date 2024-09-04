@@ -11,15 +11,5 @@
 			<code>t-041</code>
 			<reason>Line consists entirely of punctuation.</reason>
 		</ignore>
-		<ignore>
-			<code>t-053</code>
-			<reason>Stage direction is an interjection.</reason>
-		</ignore>
-	</file>
-	<file path="act-3.xhtml">
-		<ignore>
-			<code>t-053</code>
-			<reason>Stage direction is an interjection.</reason>
-		</ignore>
 	</file>
 </se-lint-ignore>
