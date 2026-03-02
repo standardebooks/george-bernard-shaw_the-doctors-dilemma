@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="act-1.xhtml">
-		<ignore>
-			<code>t-041</code>
+		<ignore code="t-041">
 			<reason>Line consists entirely of punctuation.</reason>
 		</ignore>
 	</file>
 	<file path="act-2.xhtml">
-		<ignore>
-			<code>t-041</code>
+		<ignore code="t-041">
 			<reason>Line consists entirely of punctuation.</reason>
 		</ignore>
 	</file>
