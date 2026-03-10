@@ -2,11 +2,16 @@
 <se-lint-ignore>
 	<file path="act-1.xhtml">
 		<ignore code="t-041">
+			<line>1025</line>
 			<reason>Line consists entirely of punctuation.</reason>
 		</ignore>
 	</file>
 	<file path="act-2.xhtml">
 		<ignore code="t-041">
+			<line>82</line>
+			<line>364</line>
+			<line>492</line>
+			<line>770</line>
 			<reason>Line consists entirely of punctuation.</reason>
 		</ignore>
 	</file>
