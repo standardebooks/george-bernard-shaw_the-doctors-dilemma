@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:abstract>A doctor must decide which patient is worthy of his newly discovered cure: a talented but amoral artist, or a good-hearted but undistinguished public servant.</dc:abstract>
+		<meta property="schema:abstract">A doctor must decide which patient is worthy of his newly discovered cure: a talented but amoral artist, or a good-hearted but undistinguished public servant.</meta>
 		<dc:description>
 			&lt;p&gt;Sir Colenso Ridgeon is a respected medical man who has developed a new cure for tuberculosis. His limited resources mean he can cure only a few people at a time, leaving him to decide who lives and who dies. The dilemma he faces is whose life is worth saving: a talented but amoral young artist, or a goodhearted public servant?&lt;/p&gt;
 			&lt;p&gt;Ridgeon is helped in his decision by his friends, doctors all, who represent author &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw’s&lt;/a&gt; opinion of the medical men of his day: a surgeon who prescribes an operation for every ailment; a general practitioner who sells cheap patent medicines to London’s poor; a wealthy and successful doctor to the rich and famous devoid of any medical talent but with a charming bedside manner; and a cynical retired doctor with no tolerance for modern medical science.&lt;/p&gt;
