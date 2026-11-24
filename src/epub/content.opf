@@ -44,7 +44,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/5069</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/5070</dc:source>
 		<dc:source>https://archive.org/details/doctorsdilemmage0000bern</dc:source>
-		<meta property="schema:wordCount">60800</meta>
+		<meta property="schema:wordCount">60786</meta>
 		<meta property="schema:educationalLevel">64.51</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Doctor%27s_Dilemma_(play)" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
